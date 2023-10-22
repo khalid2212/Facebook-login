@@ -1,0 +1,53 @@
+body{
+    background-color: #f0f2f5;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+.header {
+    
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.header h1 {
+    color: #1877f2;
+    font-size: 35px;
+}
+
+.app {
+    background-color: white;
+    width: 400px;
+    height: 400;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.app h2 {
+    font-size: 20px;
+}
+ 
+.app input{
+    width:95%;
+    height: 40px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}   
+
+.app #sub {
+    background-color:#1877f2 ;
+    color: white;
+    font-weight: bold;
+}
+
+.app button {
+    width:60%;
+    height: 50px;
+    background-color:#42b72a ;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0px;
+}
